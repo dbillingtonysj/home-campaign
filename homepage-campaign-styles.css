@@ -94,3 +94,8 @@ header[role="banner"] {
 	.link-more:before {
 	    border-left: 13px solid #535353;
 		}
+@media only screen and (max-width: 899px) {
+article.Three:nth-of-type(3) {
+    width: 48.26389%;
+}
+}
