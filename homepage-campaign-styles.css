@@ -96,7 +96,7 @@ header[role="banner"] {
 		}
 @media only screen and (max-width: 899px) {
 article.Three:nth-of-type(3) {
-    width: 48.26389%;
+    width: 48.26389%!important;
 }
 }
 .section-find-course h1 {
