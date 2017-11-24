@@ -1,0 +1,96 @@
+.homepage-header {
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.homepage-header h1 {
+	line-height: 0.9;
+	letter-spacing: -3px;
+	color: #34a5da;
+	font-size: 115px;
+}
+
+@media only screen and (max-width: 1439px) and (min-width: 1100px) {
+	.homepage-header h1 {
+		font-size: 90px;
+	}
+}
+
+@media only screen and (max-width: 1099px) and (min-width: 768px) {
+	.homepage-header h1 {
+		font-size: 70px
+	}
+}
+
+@media only screen and (max-width: 767px) and (min-width: 414px) {
+	.homepage-header {
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.homepage-header h1 {
+		font-size: 60px
+	}
+}
+
+@media only screen and (max-width: 413px) {
+	.homepage-header {
+		margin-top: 80px;
+		margin-bottom: 80px;
+	}
+	.homepage-header h1 {
+		font-size: 40px
+	}
+}
+
+.section-news-events .inner h1 {
+	text-transform: uppercase;
+	font-size: 3em;
+	color: #34A5DA;
+	font-weight: 900;
+}
+
+.inner h2 {
+	color: #535353;
+}
+
+.section-row.section-news-events.entrance-up.animated.fadeInUp {
+	border-top: none;
+}
+
+.section-row.section-news-events.entrance-up.animated.fadeInUp {
+	border-top: none;
+	background-color: #efefef;
+}
+
+.link-more {
+	color: #34A5DA;
+}
+
+header[role="banner"] {
+	border-bottom: none;
+}
+
+.section-find-course form input {
+	background-color: #C9C9C9;
+}
+
+.section-find-course {
+    background-color: #A4A4A4;
+		border-bottom: none;
+}
+
+		.header-stacked span:nth-child(1), #section-ask h2 span:nth-child(1), .section-image h1 span:nth-child(1), .home .section-courses h1 span:nth-child(1), .connect .section-contact h1 span:nth-child(1), .connect .content-find h2 span:nth-child(1) {
+		color: #34A5DA;
+	}
+
+	.header-stacked, #section-ask h2, .section-image h1, .home .section-courses h1, .connect .section-contact h1, .connect .content-find h2 {
+		color: #34A5DA;
+	}
+
+	.section-description .link-more {
+		color:#535353;
+	}
+
+	.link-more:before {
+	    border-left: 13px solid #535353;
+		}
