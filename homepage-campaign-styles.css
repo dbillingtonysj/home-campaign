@@ -121,3 +121,6 @@ article.Three:nth-of-type(3) {
 .course-sub {
 	font-size: 1.1em;
 }
+.section-row.section-featured.entrance.animated.fadeIn {
+	border-top: 0 !important;
+}
