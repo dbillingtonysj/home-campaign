@@ -106,3 +106,14 @@ article.Three:nth-of-type(3) {
 .section-find-course a {
     color: #fff;
 }
+#supporting {
+	text-align: center;
+	color: #34a5da !important;
+	padding: 1em 0;
+	font-weight: 900;
+	line-height: 1.2;
+	margin-top: 0;
+}
+.course-intro {
+	font-size: 3em;
+}
