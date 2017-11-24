@@ -99,3 +99,10 @@ article.Three:nth-of-type(3) {
     width: 48.26389%;
 }
 }
+.section-find-course h1 {
+    color: #fff;
+}
+
+.section-find-course a {
+    color: #fff;
+}
