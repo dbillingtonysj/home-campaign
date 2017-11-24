@@ -117,3 +117,7 @@ article.Three:nth-of-type(3) {
 .course-intro {
 	font-size: 3em;
 }
+
+.course-sub {
+	font-size: 1.1em;
+}
