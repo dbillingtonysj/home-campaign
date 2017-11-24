@@ -87,13 +87,19 @@ header[role="banner"] {
 		color: #34A5DA;
 	}
 
-	.section-description .link-more {
-		color:#535353;
-	}
-
+.section-description .link-more {
+	color: #535353;
+}
 	.link-more:before {
 	    border-left: 13px solid #535353;
 		}
+.section-description .link-more:hover {
+	color: #34A5DA;;
+}
+	.link-more:before:hover {
+	    border-left: 13px solid #34A5DA;;
+		}
+
 @media only screen and (max-width: 899px) {
 article.Three:nth-of-type(3) {
     width: 48.26389%!important;
