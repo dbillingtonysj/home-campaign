@@ -129,13 +129,13 @@ article.Three:nth-of-type(3) {
 
 @media only screen and (max-width: 767px) {
 .course-intro, .section-news-events .inner h1 {
-    font-size: 30px;
+    font-size: 36px;
 }
 }
 
 @media only screen and (max-width: 767px) {
 .course-sub {
-    font-size: 26px;
+    font-size: 24px;
 }
 }
 
@@ -144,16 +144,16 @@ article.Three:nth-of-type(3) {
     font-size: 50px;
 }	
 .course-sub {
-font-size: 42px;	
+font-size: 38px;	
 }
 }
 
 @media only screen and (min-width: 1100px) {
 .course-intro, .section-news-events .inner h1 {
-    font-size: 70px;
+    font-size: 60px;
 }
 .course-sub {
-	font-size:60px;
+	font-size:480px;
 	}
 }
 
