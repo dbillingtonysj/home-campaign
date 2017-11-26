@@ -130,7 +130,7 @@ article.Three:nth-of-type(3) {
 	font-size: 3em;
 }
 
-@media only screen and (max-width: 413px) {
+@media only screen and (max-width: 767px) {
 .course-intro, .section-news-events .inner h1 {
     font-size: 30px;
 }
@@ -140,7 +140,7 @@ article.Three:nth-of-type(3) {
 	font-size: 1.1em;
 }
 
-@media only screen and (max-width: 413px) {
+@media only screen and (max-width: 767px) {
 .course-sub {
     font-size: 26px;
 }
