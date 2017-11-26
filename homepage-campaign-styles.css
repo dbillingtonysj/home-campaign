@@ -126,9 +126,6 @@ article.Three:nth-of-type(3) {
 	line-height: 1.2;
 	margin-top: 0;
 }
-.course-intro {
-	font-size: 3em;
-}
 
 @media only screen and (max-width: 767px) {
 .course-intro, .section-news-events .inner h1 {
@@ -136,15 +133,31 @@ article.Three:nth-of-type(3) {
 }
 }
 
-.course-sub {
-	font-size: 1.1em;
-}
-
 @media only screen and (max-width: 767px) {
 .course-sub {
     font-size: 26px;
 }
 }
+
+@media only screen and (max-width: 1099px) and (min-width: 768px) {
+.course-intro, .section-news-events .inner h1 {
+    font-size: 50px;
+}	
+.course-sub {
+font-size: 42px;	
+}
+}
+
+@media only screen and (max-width: 1439px) and (min-width: 1100px) {
+.course-intro, .section-news-events .inner h1 {
+    font-size: 70px;
+}
+.course-sub {
+	font-size:60px;
+	}
+}
+
+
 .section-row.section-featured.entrance.animated.fadeIn {
 	border-top: 0 !important;
 }
