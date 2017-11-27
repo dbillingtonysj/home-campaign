@@ -166,6 +166,6 @@ font-size: 26px;
 	border-top: 0 !important;
 }
 
-.Three a:hover {
-color: #34A5DA;
+.article-grid a:hover h2, .section-featured a:hover h2, .related a:hover h2, .article-grid a:hover h3, .section-featured a:hover h3, .related a:hover h3, .article-grid a:hover .link-more, .section-featured a:hover .link-more, .related a:hover .link-more {
+	color: #34A5DA!important;
 }
