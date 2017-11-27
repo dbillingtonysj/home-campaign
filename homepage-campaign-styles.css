@@ -135,7 +135,7 @@ h2#supporting {
 
 @media only screen and (max-width: 767px) {
 .course-sub {
-    font-size: 24px;
+    font-size: 22px;
 }
 }
 
@@ -144,7 +144,7 @@ h2#supporting {
     font-size: 50px;
 }	
 .course-sub {
-font-size: 38px;	
+font-size: 26px;	
 }
 }
 
@@ -153,7 +153,7 @@ font-size: 38px;
     font-size: 60px;
 }
 .course-sub {
-	font-size:48px;
+	font-size:30px;
 	}
 }
 
@@ -164,4 +164,8 @@ font-size: 38px;
 
 .section-row.section-courses {
 	border-top: 0 !important;
+}
+
+.Three a:hover {
+color: #34A5DA;
 }
